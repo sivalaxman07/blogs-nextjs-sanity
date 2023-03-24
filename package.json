@@ -28,7 +28,7 @@
     "sanity": "^3.7.0",
     "sanity-plugin-asset-source-unsplash": "^1.0.6",
     "suspend-react": "^0.0.9",
-    "swr": "^2.1.0"
+    "swr": "^2.1.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
